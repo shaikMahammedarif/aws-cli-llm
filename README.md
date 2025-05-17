@@ -1,4 +1,4 @@
-# CLIverse – Where language meets the cloud 
+# 𝗧𝗮𝗹𝗸𝟮𝗔𝗪𝗦 – Where language meets the cloud 
 
 This project is a command-line assistant that translates natural language AWS requests into AWS CLI commands using Google Gemini API (LLM).  
 It executes those commands on your machine and returns the output, making AWS CLI usage easier and more conversational.
