@@ -1,4 +1,4 @@
 
 import os
 
-GEMINI_API_KEY = os.getenv("AIzaSyAAoNNuBn_WhTNHnYpAyGKEO4Pb6dSdzEw") or "AIzaSyAAoNNuBn_WhTNHnYpAyGKEO4Pb6dSdzEw"
+GEMINI_API_KEY = os.getenv("Place your api key here.") or "Place your api key here."  #Replace with your actual API key
